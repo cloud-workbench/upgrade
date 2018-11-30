@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <Upgrade xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <CurrentVersion>1.1.3.9</CurrentVersion>
-  <UpgradePackageUrl>https://raw.githubusercontent.com/cloud-workbench/upgrade/master/FacebookAutomatic_1.1.3.9.zip</UpgradePackageUrl>
+  <CurrentVersion>1.1.3.10</CurrentVersion>
+  <UpgradePackageUrl>https://raw.githubusercontent.com/cloud-workbench/upgrade/master/FacebookAutomatic_1.1.3.10.zip</UpgradePackageUrl>
 </Upgrade>
